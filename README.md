@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yamatium
-- 🌱 I’m currently learning angular y java
+- 🌱 I’m currently learning  y java
 
 <!---
 yamatium/yamatium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
